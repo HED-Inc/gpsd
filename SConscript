@@ -176,18 +176,18 @@ all_manpages = {
 
 # doc files to install in share/gpsd/doc
 doc_files = [
-    'AUTHORS',
-    'build.adoc',
+#    'AUTHORS',
+#    'build.adoc',
     'COPYING',
-    'www/example1.c.txt',
-    'NEWS',
-    'README.adoc',
-    'SUPPORT.adoc',
+#    'www/example1.c.txt',
+#    'NEWS',
+#    'README.adoc',
+#    'SUPPORT.adoc',
 ]
 
 # doc files to install in share/gpsd/doc
 icon_files = [
-    'packaging/X11/gpsd-logo.png',
+#    'packaging/X11/gpsd-logo.png',
 ]
 
 # gpsd_version, and variantdir, from SConstruct
